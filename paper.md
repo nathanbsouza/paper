@@ -1,8 +1,9 @@
 # Title
-Development of a new equation of state for mixtures of hard convex bodies
+Development of a new equation of state for mixtures of hard convex bodies: A study
 
 # Author
 Nathan de Souza
+Another Person
 
 # Introduction
 Introduction goes here.
