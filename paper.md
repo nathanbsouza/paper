@@ -19,3 +19,6 @@ Details aout the simulations go here.
 
 # Methodology
 Methodology goes here. The method of Anybody et al (1990)...
+
+# Results
+Results go here.
