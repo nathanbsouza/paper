@@ -13,3 +13,6 @@ Another line here. A reference: Person et al, 2025.
 Somebody et al (2024) conducted...
 
 A few discussion goes here...
+
+# Simulations
+Methodology and details go here.
