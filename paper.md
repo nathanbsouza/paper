@@ -25,3 +25,6 @@ Results go here.
 
 # Figures
 Figures go in their own section in the draft paper.
+
+# Conclusions
+Conclusions go here.
