@@ -28,3 +28,6 @@ Figures go in their own section in the draft paper.
 
 # Conclusions
 Conclusions go here.
+
+# Author affiliations
+Author affiliations
