@@ -22,3 +22,6 @@ Methodology goes here. The method of Anybody et al (1990)...
 
 # Results
 Results go here.
+
+# Figures
+Figures go in their own section in the draft paper.
